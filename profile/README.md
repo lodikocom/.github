@@ -1,80 +1,85 @@
-# Lodiko: Web3 Livestreaming & Video Sharing Platform with Lodiko DAO
+# Lodiko: The Web3 Livestreaming & Creator Economy Platform Powered by DAO
 
 ![Lodiko Logo](https://lodiko.com/logo.png)
 
-Empowering creators to share, earn, and govern decentralized media on Solana.
+**Lodiko** is a next-generation decentralized video platform built on **Solana**, empowering creators to livestream, share videos, and earn crypto — while the community governs the future through the **Lodiko DAO**.
 
 ---
 
-## 🔥 What is Lodiko?
+## 🚀 Powering the Decentralized Creator Economy
 
-**Lodiko** is a Web3 platform built on **Solana** where creators can:
+Lodiko combines the scalability of Solana with DAO-based governance to redefine media ownership and revenue sharing.
 
-- 🎥 Livestream and share videos
-- 💰 Earn $LODIKO tokens
-- 🗳 Vote and propose changes via **Lodiko DAO**
+With **$LODIKO** as the native token, users can:
 
-Join us and help shape the future of decentralized media.
-
-🌐 [https://lodiko.com](https://lodiko.com)
-
----
-
-## ⚙️ Key Features
-
-- **Livestreaming & Video Sharing** — Engage and earn via content.
-- **Web3 News Hub** — Stay up-to-date with DAO and ecosystem news.
-- **Swipe Navigation** — Smooth, mobile-friendly video browsing.
-- **Interactive Tools** — Like, comment, share, and bookmark.
-- **Solana-Powered** — Low fees and blazing fast rewards.
-- **Decentralized Governance** — Vote with $LODIKO tokens.
+- 🎥 **Livestream and Upload Videos**
+- 💰 **Earn Rewards in $LODIKO**
+- 🗳 **Vote on Platform Proposals via Lodiko DAO**
+- 📲 **Engage with swipe-based mobile UX**
+- 📰 **Stay updated with real-time Web3 news hub**
 
 ---
 
-## 📱 Try It Now
-
-👉 [lodiko.com](https://lodiko.com)
-
-Or contribute via GitHub: [github.com/lodikocom/lodiko](https://github.com/lodikocom/lodiko)
+## 🌐 Explore Lodiko
+  
+- 🚀 **Try the App**: [https://lodiko.com](https://lodiko.com) — Start streaming and earning with $LODIKO  
+- 📄 **Whitepaper**: [https://lodiko.com/whitepaper](https://lodiko.com/whitepaper) — Read how Lodiko DAO works 
+- 🧠 **Roadmap**: [https://lodiko.com/roadmap](https://lodiko.com/roadmap) — Learn about the project, future & mission
+- 💻 **GitHub**: [github.com/lodikocom/lodiko](https://github.com/lodikocom/lodiko) — Explore the codebase and contribute
 
 ---
 
 ## 🧠 DAO & Governance
 
-Join the **Lodiko DAO** to:
+The **Lodiko DAO** puts power in the hands of the community.
 
-- Propose features
-- Vote on upgrades
-- Help grow the creator economy
+With $LODIKO tokens, holders can:
 
-You hold the power — **with $LODIKO.**
+- Propose new platform features  
+- Vote on key ecosystem upgrades  
+- Help shape the future of decentralized media  
+
+> No centralized control. Just creators, builders, and token holders.
 
 ---
 
-## 🌐 Socials
+## 🛠 Built With
 
-- **Telegram**: [t.me/lodikocom](https://t.me/lodikocom)
-- **X (Twitter)**: [@lodikocom](https://x.com/lodikocom)
-- **Website**: [lodiko.com](https://lodiko.com)
-- **DAO (X)**:  [@lodikodao](https://x.com/lodikodao)
-- **DAO (TG)**: [t.me/lodikodao](https://t.me/lodikodao)
+- ⚛️ React + React Router
+- 📱 `react-swipeable` for gesture-based UX
+- 🔗 Solana blockchain for scalable, low-fee interactions
+- 🔐 Web3Auth, Axios, Lodash, UUID
+- 💻 Fully responsive, DAO-integrated front-end
+
 ---
 
-## 💡 Want to Contribute?
+## 🌍 Join the Community
 
-We welcome PRs and DAO proposals! Start by forking the repo:
+- **Telegram (Main)**: [t.me/lodikocom](https://t.me/lodikocom)
+- **Telegram (DAO)**: [t.me/lodikodao](https://t.me/lodikodao)
+- **X (Main)**: [@lodikocom](https://x.com/lodikocom)
+- **X (DAO)**: [@lodikodao](https://x.com/lodikodao)
+
+Connect, contribute, and co-govern the next evolution of creator platforms.
+
+---
+
+## 🤝 Contribute to Lodiko
+
+We welcome developers, creators, and DAO participants.
 
 ```bash
+# Get started locally
 git clone https://github.com/lodikocom/lodiko.git
 cd lodiko
 npm install
 npm start
-```
+````
 
-Then open a pull request or submit your idea via DAO vote!
+Open a pull request or propose new features via DAO vote. Your voice matters.
 
 ---
 
 ## 📄 License
 
-[MIT License](https://github.com/lodikocom/lodiko/blob/main/LICENSE)
+Open-sourced under the [MIT License](https://github.com/lodikocom/lodiko/blob/main/LICENSE)
