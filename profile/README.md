@@ -114,4 +114,4 @@ Join the DAO to propose features via \$LODIKO tokens!
 
 ## 📄 License
 
-MIT License – see [LICENSE](.github/profile/LICENSE) for details.
+MIT License – see [LICENSE](LICENSE) for details.
